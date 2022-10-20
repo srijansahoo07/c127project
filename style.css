@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#timer{
+    text-align: left;
+}
+
+#score{
+    text-align: right;
+}
+
+.canvas{
+    border-radius: 45px;
+}
+
+#show_sketch{
+    background-color: aquamarine;
+}
